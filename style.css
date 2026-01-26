@@ -880,12 +880,12 @@ body {
 
 .boxMail .boxMail-container .card1 .userImg{
     position: relative;
-    width: 80px;
-    height: 80px;
+    width: 160px;
+    height: 160px;
     background-color: white;
     border-radius: 50%;
     overflow: hidden;
-    border: 2px solid white;
+    border: 2px solid rgb(184, 184, 184);
     cursor: pointer;
     margin-bottom: 20px;
 }
